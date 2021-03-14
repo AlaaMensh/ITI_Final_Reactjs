@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "lol",
+      "city": "Giza",
+      "email": "lolo@gmail.bi",
+      "phone": "1-770-736-8031 x56442",
+      "age": 20,
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "ahmed mensh",
+      "city": "Giza",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "age": 20,
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "name": "ahmed",
+      "city": "Giza",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "age": 20,
+      "gender": "female"
+    },
+    {
+      "id": 7,
+      "name": "alaa",
+      "city": "giza",
+      "email": "alaa@gmial.com",
+      "phone": "123",
+      "age": "40",
+      "gender": "female"
+    },
+    {
+      "name": "alaaaa",
+      "city": "eeee",
+      "email": "sss@gmia.co",
+      "phone": "1244",
+      "age": "33",
+      "gender": "male",
+      "id": 8
+    },
+    {
+      "name": "loly mashy",
+      "city": "giza",
+      "email": "alaa@mgial.co",
+      "phone": "1234",
+      "age": "40",
+      "gender": "female",
+      "id": 10
+    }
+  ]
+}

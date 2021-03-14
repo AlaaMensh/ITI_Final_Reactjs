@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,600;1,400;1,700&display=swap');
+.form-content{
+  
+}
+.form{
+    
+    background-color: #86adb4;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 1.3em;
+    border-radius: 2em;
+    margin-top: 3em;
+    padding:2em;
+
+
+}
+
+.update-button{
+    padding:0.3em 3em;
+    background-color: #b0c8cc;
+  
+}
