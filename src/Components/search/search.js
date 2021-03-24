@@ -5,7 +5,7 @@ const Search = (props) => {
     // console.log(props);
     return (
             
-                <div class="input-group w-50">
+                <div class="input-group">
                     <input type="text" class="form-control " name="name" id="name"  placeholder="Enter Search Name" aria-label="Username" aria-describedby="basic-addon1" onChange={
                         (e)=>{
                             props.getSearchName(e.target.value);

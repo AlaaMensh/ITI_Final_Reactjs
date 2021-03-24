@@ -2,11 +2,11 @@
   "students": [
     {
       "id": 2,
-      "name": "lol",
+      "name": "Alaa El-Menshawy",
       "city": "Giza",
       "email": "lolo@gmail.bi",
       "phone": "1-770-736-8031 x56442",
-      "age": 20,
+      "age": "33",
       "gender": "female"
     },
     {
@@ -35,15 +35,6 @@
       "phone": "123",
       "age": "40",
       "gender": "female"
-    },
-    {
-      "name": "alaaaa",
-      "city": "eeee",
-      "email": "sss@gmia.co",
-      "phone": "1244",
-      "age": "33",
-      "gender": "male",
-      "id": 8
     },
     {
       "name": "loly mashy",

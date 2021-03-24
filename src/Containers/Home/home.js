@@ -54,9 +54,9 @@ class Home extends Component {
  
      render() { 
         return ( 
-            <div className="container--fluid  w-100">
+            <div className="container--fluid  hero">
                <div className="row main-section align-items-center mt-5">
-                    <div className= "col-md-8 col-lg-6 col-12 col-xl-6  main-section-text ml-5 p-4 text-center d-flex flex-column justify-content-center align-items-center ">
+                    <div className= "col-md-8 col-lg-6 col-12 col-xl-6  main-section-text ml-md-5 ml-0 p-4 text-center d-flex flex-column justify-content-center align-items-center ">
                         <p className="main-section-text-header ">Education is the Key to Success</p>
                         <p className="main-section-text-para">Making an impacts in classrooms and communities. </p>
                         {/* <button class="  main-section-button">Start Now</button> */}
@@ -64,7 +64,7 @@ class Home extends Component {
                 </div>
                 <div className=" container--fluid bg-light search-container">
                     <div className="row search-content justify-content-center align-items-center">
-                        <div className="col-12 col-md-6  ">
+                        <div className="col-12 col-md-6 col-lg-4 ">
                         <Search getSearchName = {this.getSearchName}  />
                         </div>
                         <div className="col-12 col-md-6 d-flex flex-row justify-content-end ">

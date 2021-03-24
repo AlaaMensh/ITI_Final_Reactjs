@@ -16,6 +16,9 @@ body,html{
   height: 50vh;
  background-size: cover;
   background-position: center ;
+  /* width: 100%; */
+  display: flex;
+  align-items: center;
   
   /* background-color: yellow; */
 
@@ -55,4 +58,12 @@ body,html{
   font-size: 3em;
   color:#30555b;
   cursor: pointer;
+}
+.hero{
+  width: 100%;
+}
+@media only screen and (max-width: 600px) {
+  .hero{
+    width: 600px;
+  }
 }
